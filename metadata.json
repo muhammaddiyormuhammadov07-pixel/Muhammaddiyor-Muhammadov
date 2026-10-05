@@ -1,0 +1,6 @@
+{
+  "name": "Football Club 3D",
+  "description": "3D animatsiyali va chiroyli grafikali futbol jamoasini boshqarish o'yini: taktika, tarkib, transferlar va jonli 3D o'yin simulyatori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
